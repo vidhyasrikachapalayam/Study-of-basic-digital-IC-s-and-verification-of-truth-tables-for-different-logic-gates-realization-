@@ -83,7 +83,7 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 
 endmodule
-*/
+```
 Logic symbol & Truthtable
 ![image](https://github.com/vidhyasrikachapalayam/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119477817/870c3eba-33cb-4366-bd17-904f196caafa)
 
